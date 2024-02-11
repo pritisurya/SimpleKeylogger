@@ -15,6 +15,6 @@ Keylogger is used to record key strokes ie keeps a record what we are typing fro
   <h4>&bull; Run keylogger.py</h4>
 
  <h2>Contributor</h2> 
-   <a href="www.linkedin.com/in/priti-surya-613022229">Priti Surya</a>
+   <a href="https://www.linkedin.com/in/priti-surya-613022229/">Priti Surya</a>
   
   
